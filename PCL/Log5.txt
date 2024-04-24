@@ -1,0 +1,913 @@
+[15:59:20.498] [Start] 程序版本：Release 2.6.15（317）
+[15:59:20.498] [Start] 识别码：2461-CE8D-9AB0-BDC7
+[15:59:20.498] [Start] 程序路径：H:\新建文件夹 (2)\Plain Craft Launcher 2.exe
+[15:59:20.498] [Start] 第一阶段加载用时：93 ms
+[15:59:20.608] [Start] 版本号从 0 升高到 317
+[15:59:20.608] [Start] 最高版本号从 0 升高到 317
+[15:59:20.608] [Start] 已解除帮助页面的隐藏
+[15:59:20.670] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[15:59:20.670] [Start] 第二阶段加载用时：156 ms
+[15:59:20.889] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[15:59:21.108] [System] 窗口已置顶，位置：(530, 265), 860 x 520
+[15:59:21.123] [Start] 第三阶段加载用时：62 ms
+[15:59:21.123] [Animation] 动画线程开始
+[15:59:21.123] [Start] 加载 DLL：Json
+[15:59:21.123] [System] 获取资源：Json
+[15:59:21.123] [Launch] Minecraft 文件夹：H:\新建文件夹 (2)\.minecraft\
+[15:59:21.201] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[15:59:21.201] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[15:59:21.233] [Page] 实例化：清空自定义主页 UI，来源为空
+[15:59:21.248] [Skin] 载入头像成功：Loader Skin Legacy
+[15:59:21.264] [Control] 普通弹窗：协议授权
+在使用 PCL 前，请同意 PCL 的用户协议与免责声明。
+[15:59:21.498] [Minecraft] 启动按钮：Minecraft 版本：H:\新建文件夹 (2)\.minecraft\versions\1.20.2\
+[15:59:21.842] [System] DPI：96，系统版本：10.0.18363.0，PCL 位置：H:\新建文件夹 (2)\Plain Craft Launcher 2.exe
+[15:59:25.066] [Control] 按下按钮：同意
+[15:59:25.066] [Control] 普通弹框返回：1
+[15:59:25.066] [Java] 要求 Java 列表缓存更新
+[15:59:25.066] [Java] 初始化未找到可用的 Java，将自动触发搜索
+[15:59:25.066] [Loader] 加载器 查找 Java 状态改变：Loading
+[15:59:25.081] [Java] 开始部分遍历查找：C:\
+[15:59:25.097] [Java] 遍历查找 Java 时遭遇无权限的文件夹：C:\ProgramData\Microsoft\Network\Downloader
+[15:59:25.097] [Java] 遍历查找 Java 时遭遇无权限的文件夹：C:\ProgramData\Packages
+[15:59:25.097] [Java] 遍历查找 Java 时遭遇无权限的文件夹：C:\Users\defaultuser0
+[15:59:25.175] [Java] 开始部分遍历查找：D:\
+[15:59:25.175] [Java] 开始部分遍历查找：E:\
+[15:59:25.175] [Java] 开始部分遍历查找：F:\
+[15:59:25.175] [Java] 开始部分遍历查找：G:\
+[15:59:25.175] [Java] 开始部分遍历查找：H:\
+[15:59:25.284] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[15:59:25.284] [Loader] 加载器 PCL 服务 状态改变：Loading
+[15:59:25.284] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，超时 10000ms，要求 json
+[15:59:25.300] [Server] 正在连接到 PCL 服务器
+[15:59:25.300] [Net] 获取网络结果：https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1712563165-5b48c2bf-0-9c36c22e7a1bf3f03e65e5a50a74244f，超时 10000ms
+[15:59:25.409] [Java] 开始部分遍历查找：C:\Users\s01\AppData\Roaming\
+[15:59:25.425] [Java] 开始部分遍历查找：C:\Users\s01\AppData\Local\
+[15:59:25.472] [Java] 开始完全遍历查找：H:\新建文件夹 (2)\
+[15:59:25.612] [Java] 开始完全遍历查找：H:\新建文件夹 (2)\.minecraft\
+[15:59:25.628] [Java] 开始确认列表 Java 状态，共 0 项
+[15:59:25.644] [Java] Java 搜索完成，发现 0 个 Java
+[15:59:25.644] [Loader] 加载器 查找 Java 状态改变：Finished
+[15:59:25.973] [Net] 获取网络结果：https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1712563166-033dab2d-0-f3139ea50df7313f6b26b8c69da252f0，超时 30000ms
+[15:59:26.036] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，超时 30000ms，要求 json
+[15:59:26.056] 获取 PCL 服务器状态失败：获取结果失败，基础连接已经关闭: 发送时发生错误。（https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1712563165-5b48c2bf-0-9c36c22e7a1bf3f03e65e5a50a74244f）
+→ 基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetGetCodeByRequestRetry(String Url, Encoding Encode, String Accept, Boolean IsJson, String BackupUrl, Boolean UseBrowserUserAgent)
+   在 PCL.ModMain.ServerSubReal()
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 PCL.ModNet.NetGetCodeByRequestOnce(String Url, Encoding Encode, Int32 Timeout, Boolean IsJson, String Accept, Boolean UseBrowserUserAgent)
+   在 System.Net.Security.SslState.StartReadFrame(Byte[] buffer, Int32 readBytes, AsyncProtocolRequest asyncRequest)
+   在 System.Net.Security.SslState.StartReceiveBlob(Byte[] buffer, AsyncProtocolRequest asyncRequest)
+   在 System.Net.Security.SslState.CheckCompletionBeforeNextReceive(ProtocolToken message, AsyncProtocolRequest asyncRequest)
+   在 System.Net.Security.SslState.ForceAuthentication(Boolean receiveFirst, Byte[] buffer, AsyncProtocolRequest asyncRequest)
+   在 System.Net.Security.SslState.ProcessAuthentication(LazyAsyncResult lazyResult)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Net.TlsStream.ProcessAuthentication(LazyAsyncResult result)
+   在 System.Net.TlsStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   在 System.Net.PooledStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   在 System.Net.ConnectStream.WriteHeaders(Boolean async)
+错误类型：System.IO.IOException
+[15:59:26.057] [Loader] 加载器 PCL 服务 状态改变：Finished
+[15:59:26.124] 加载线程 DlClientList Mojang (10) 发生运行时错误：获取结果失败，基础连接已经关闭: 发送时发生错误。（https://launchermeta.mojang.com/mc/game/version_manifest.json）
+→ 基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetGetCodeByRequestRetry(String Url, Encoding Encode, String Accept, Boolean IsJson, String BackupUrl, Boolean UseBrowserUserAgent)
+   在 PCL.ModDownload.DlClientListMojangMain(LoaderTask`2 Loader)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__13-0._Lambda$__0()
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 PCL.ModNet.NetGetCodeByRequestOnce(String Url, Encoding Encode, Int32 Timeout, Boolean IsJson, String Accept, Boolean UseBrowserUserAgent)
+   在 System.Net.Security.SslState.StartReadFrame(Byte[] buffer, Int32 readBytes, AsyncProtocolRequest asyncRequest)
+   在 System.Net.Security.SslState.StartReceiveBlob(Byte[] buffer, AsyncProtocolRequest asyncRequest)
+   在 System.Net.Security.SslState.CheckCompletionBeforeNextReceive(ProtocolToken message, AsyncProtocolRequest asyncRequest)
+   在 System.Net.Security.SslState.ForceAuthentication(Boolean receiveFirst, Byte[] buffer, AsyncProtocolRequest asyncRequest)
+   在 System.Net.Security.SslState.ProcessAuthentication(LazyAsyncResult lazyResult)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Net.TlsStream.ProcessAuthentication(LazyAsyncResult result)
+   在 System.Net.TlsStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   在 System.Net.PooledStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   在 System.Net.ConnectStream.WriteHeaders(Boolean async)
+错误类型：System.IO.IOException
+[15:59:26.124] [Loader] 加载器 DlClientList Mojang 状态改变：Failed
+[15:59:26.922] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[15:59:26.922] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[15:59:26.924] [Skin] 载入头像成功：Loader Skin Legacy
+[15:59:27.621] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[15:59:27.623] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[15:59:27.626] [Skin] 载入头像成功：Loader Skin Legacy
+[15:59:27.763] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[15:59:27.763] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[15:59:27.763] [Skin] 载入头像成功：Loader Skin Legacy
+[15:59:27.908] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[15:59:27.908] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[15:59:27.908] [Skin] 载入头像成功：Loader Skin Legacy
+[15:59:28.111] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[15:59:28.111] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[15:59:28.113] [Skin] 载入头像成功：Loader Skin Legacy
+[15:59:28.780] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[15:59:28.780] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[15:59:28.780] [Skin] 载入头像成功：Loader Skin Legacy
+[15:59:29.342] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[15:59:29.342] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[15:59:29.344] [Skin] 载入头像成功：Loader Skin Legacy
+[15:59:29.965] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[15:59:29.966] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[15:59:29.967] [Skin] 载入头像成功：Loader Skin Legacy
+[15:59:30.115] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[15:59:30.115] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[15:59:30.116] [Skin] 载入头像成功：Loader Skin Legacy
+[15:59:30.299] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[15:59:30.299] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[15:59:30.300] [Skin] 载入头像成功：Loader Skin Legacy
+[15:59:31.877] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[15:59:31.878] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[15:59:31.879] [Skin] 载入头像成功：Loader Skin Legacy
+[15:59:32.044] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[15:59:32.044] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[15:59:32.044] [Skin] 载入头像成功：Loader Skin Legacy
+[15:59:32.363] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[15:59:32.363] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[15:59:32.364] [Skin] 载入头像成功：Loader Skin Legacy
+[15:59:32.675] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[15:59:32.675] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[15:59:32.676] [Skin] 载入头像成功：Loader Skin Legacy
+[15:59:32.812] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[15:59:32.812] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[15:59:32.813] [Skin] 载入头像成功：Loader Skin Legacy
+[15:59:33.291] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[15:59:33.291] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[15:59:33.292] [Skin] 载入头像成功：Loader Skin Legacy
+[15:59:52.659] [Control] 按下单选按钮：设置
+[15:59:52.759] [Control] 切换主要页面：Setup, -1
+[15:59:53.790] [Control] 按下单选框：自定义
+[15:59:58.695] [UI] 选择文件返回：H:\新建文件夹 (3)\f.png
+[15:59:58.711] [Control] 普通弹窗：选择皮肤种类
+此皮肤为 Steve 模型（粗手臂）还是 Alex 模型（细手臂）？
+[15:59:59.632] [Control] 按下按钮：Steve 模型
+[15:59:59.632] [Control] 普通弹框返回：1
+[15:59:59.632] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[15:59:59.632] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[15:59:59.632] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[15:59:59.632] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[15:59:59.632] [Skin] 载入头像成功：Loader Skin Legacy
+[15:59:59.632] [Skin] 载入头像成功：Loader Skin Legacy
+[16:00:00.806] [Control] 按下单选按钮：启动
+[16:00:00.806] [Control] 切换主要页面：Launch, -1
+[16:00:01.931] [Control] 按下单选按钮：设置
+[16:00:01.931] [Control] 切换主要页面：Setup, -1
+[16:00:02.978] [Control] 按下按钮：更改皮肤
+[16:00:04.495] [UI] 选择文件返回：H:\新建文件夹 (3)\4872750323769704396.png
+[16:00:04.526] [Control] 普通弹窗：选择皮肤种类
+此皮肤为 Steve 模型（粗手臂）还是 Alex 模型（细手臂）？
+[16:00:05.338] [Control] 按下按钮：Steve 模型
+[16:00:05.338] [Control] 普通弹框返回：1
+[16:00:05.338] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[16:00:05.338] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[16:00:05.338] [Skin] 载入头像成功：Loader Skin Legacy
+[16:00:06.042] [Control] 按下单选按钮：启动
+[16:00:06.042] [Control] 切换主要页面：Launch, -1
+[16:00:06.995] [Control] 按下单选按钮：设置
+[16:00:06.995] [Control] 切换主要页面：Setup, -1
+[16:00:08.272] [Control] 按下按钮：更改皮肤
+[16:00:09.241] [UI] 选择文件返回：H:\新建文件夹 (3)\6179826396675906474.png
+[16:00:09.256] [Control] 普通弹窗：选择皮肤种类
+此皮肤为 Steve 模型（粗手臂）还是 Alex 模型（细手臂）？
+[16:00:09.944] [Control] 按下按钮：Steve 模型
+[16:00:09.944] [Control] 普通弹框返回：1
+[16:00:09.944] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[16:00:09.944] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[16:00:09.944] [Skin] 载入头像成功：Loader Skin Legacy
+[16:00:10.772] [Control] 按下单选按钮：启动
+[16:00:10.772] [Control] 切换主要页面：Launch, -1
+[16:00:12.147] [Control] 按下单选按钮：设置
+[16:00:12.147] [Control] 切换主要页面：Setup, -1
+[16:00:13.506] [Control] 按下按钮：更改皮肤
+[16:00:14.489] [UI] 选择文件返回：H:\新建文件夹 (3)\6152760171755785883.png
+[16:00:14.489] [Control] 普通弹窗：选择皮肤种类
+此皮肤为 Steve 模型（粗手臂）还是 Alex 模型（细手臂）？
+[16:00:15.083] [Control] 按下按钮：Steve 模型
+[16:00:15.083] [Control] 普通弹框返回：1
+[16:00:15.083] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[16:00:15.083] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[16:00:15.083] [Skin] 载入头像成功：Loader Skin Legacy
+[16:00:16.208] [Control] 按下单选按钮：启动
+[16:00:16.208] [Control] 切换主要页面：Launch, -1
+[16:00:41.198] [Control] 按下按钮：版本选择
+[16:00:41.198] [Control] 切换主要页面：VersionSelect, 0
+[16:00:41.338] [Loader] 加载器 Minecraft Version List 状态改变：Loading
+[16:00:41.338] [Minecraft] 启动按钮：正在加载 Minecraft 版本
+[16:00:41.369] [Minecraft] 有效的 Minecraft 文件夹：当前文件夹 > H:\新建文件夹 (2)\.minecraft\
+[16:00:41.369] 版本 json 可用性检查失败（H:\新建文件夹 (2)\.minecraft\versions\1.14.4\）：未找到版本 json 文件：H:\新建文件夹 (2)\.minecraft\versions\1.14.4\1.14.4.json
+   在 PCL.ModMinecraft.McVersion.FindInfo()
+   在 PCL.ModMinecraft.McVersion.ViewInfo()
+   在 PCL.ModMinecraft.McVersion.Check()
+[16:00:41.385] 版本 json 可用性检查失败（H:\新建文件夹 (2)\.minecraft\versions\1.16.4-Forge 35.1.4\）：未找到版本 json 文件：H:\新建文件夹 (2)\.minecraft\versions\1.16.4-Forge 35.1.4\1.16.4-Forge 35.1.4.json
+   在 PCL.ModMinecraft.McVersion.FindInfo()
+   在 PCL.ModMinecraft.McVersion.ViewInfo()
+   在 PCL.ModMinecraft.McVersion.Check()
+[16:00:41.385] [Setup] 当前选择的 Minecraft 版本：1.20.2
+[16:00:41.385] [Minecraft] 选择该文件夹储存的 Minecraft 版本：H:\新建文件夹 (2)\.minecraft\versions\1.20.2\
+[16:00:41.448] [Loader] 加载器 Minecraft Version List 状态改变：Finished
+[16:00:41.651] [Report] FPS 0, 动画 41, 下载中 0（0 B/s）
+[16:00:42.416] [Control] 展开卡片：不常用版本 (1)
+[16:00:45.384] [Setup] 当前选择的 Minecraft 版本：1.14.40
+[16:00:45.431] [Control] 切换主要页面：Launch, -1
+[16:00:45.431] [Control] 按下单击列表项：1.14.40
+[16:00:45.478] [Minecraft] 启动按钮：Minecraft 版本：H:\新建文件夹 (2)\.minecraft\versions\1.14.40\
+[16:00:46.040] [Control] 按下按钮：启动游戏
+[16:00:46.040] [Loader] 加载器 Loader Launch 状态改变：Loading
+[16:00:46.103] [Launch] 预检测已通过
+[16:00:46.103] [Download] 开始后台更新资源文件索引
+[16:00:46.103] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[16:00:46.103] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[16:00:46.103] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[16:00:46.103] [Loader] 加载器 获取 Java 状态改变：Loading
+[16:00:46.103] [Download] 版本 1.14.40 对应的资源文件索引为 1.14
+[16:00:46.103] [Loader] 加载器 登录 状态改变：Loading
+[16:00:46.103] [Loader] 加载器 补全文件 状态改变：Loading
+[16:00:46.103] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[16:00:46.103] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[16:00:46.103] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[16:00:46.103] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[16:00:46.103] [Launch] Java 版本需求：最低 1.8.0.0，最高 999.999.999.999
+[16:00:46.103] [Download] 版本 1.14.40 对应的资源文件索引为 1.14
+[16:00:46.103] [Taskbar] Minecraft 启动 已加入任务列表
+[16:00:46.118] [Launch] 登录加载已开始
+[16:00:46.118] [Loader] 加载器 Loader Login Legacy 状态改变：Loading
+[16:00:46.118] [Launch] 登录方式：离线（Ender_Wish）
+[16:00:46.118] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Finished
+[16:00:46.118] [Loader] 加载器 Loader Login Legacy 状态改变：Finished
+[16:00:46.118] [Loader] 加载器 后台下载资源文件索引 状态改变：Loading
+[16:00:46.118] [Java] 开始完全遍历查找：H:\新建文件夹 (2)\
+[16:00:46.118] [Java] 开始完全遍历查找：H:\新建文件夹 (2)\.minecraft\
+[16:00:46.118] [Java] 开始完全遍历查找：H:\新建文件夹 (2)\.minecraft\versions\1.14.40\
+[16:00:46.118] [Launch] 无合适的 Java，需要确认是否自动下载
+[16:00:46.134] [Launch] 登录加载已结束
+[16:00:46.134] [Loader] 加载器 登录 状态改变：Finished
+[16:00:46.134] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[16:00:46.134] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[16:00:46.134] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[16:00:46.134] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[16:00:46.150] [Download] 1.14.json 1044#：开始，起始点 0，https://bmclapi2.bangbang93.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:46.181] [Control] 普通弹窗：未找到 Java
+PCL 未找到 Java 8，是否需要 PCL 自动下载？
+如果你已经安装了 Java 8，请在 设置 → 启动选项 → 游戏 Java 中手动导入。
+[16:00:46.243] [Download] 1.14.json 1044#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:46.243] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[16:00:46.243] [Loader] 加载器 下载资源文件 状态改变：Loading
+[16:00:46.259] [Loader] 加载器 下载资源文件 状态改变：Finished
+[16:00:46.259] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[16:00:46.321] [Download] 1.14.json 1059#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:46.415] [Download] 1.14.json 1059#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:46.509] [Download] 1.14.json 1061#：开始，起始点 0，https://bmclapi2.bangbang93.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:46.603] [Download] 1.14.json 1061#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:46.697] [Download] 1.14.json 1063#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:46.790] [Download] 1.14.json 1063#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:46.884] [Download] 1.14.json 1065#：开始，起始点 0，https://bmclapi2.bangbang93.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:46.977] [Download] 1.14.json 1065#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:47.071] [Download] 1.14.json 1073#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:47.165] [Download] 1.14.json 1073#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:47.259] [Download] 1.14.json 1075#：开始，起始点 0，https://bmclapi2.bangbang93.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:47.353] [Download] 1.14.json 1075#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:47.368] [Control] 按下按钮：取消
+[16:00:47.368] [Control] 普通弹框返回：2
+[16:00:47.368] 加载线程 获取 Java (17) 发生运行时错误：$$
+   在 PCL.ModLaunch.McLaunchJava(LoaderTask`2 Task)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__13-0._Lambda$__0()
+[16:00:47.368] [Loader] 加载器 获取 Java 状态改变：Failed
+[16:00:47.368] [Loader] 加载器 Minecraft 启动 状态改变：Failed
+[16:00:47.368] [Loader] 加载器 补全文件 状态改变：Aborted
+[16:00:47.368] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Aborted
+[16:00:47.368] [Loader] 加载器 分析缺失支持库文件 状态改变：Aborted
+[16:00:47.368] [Loader] 加载器 下载支持库文件 状态改变：Aborted
+[16:00:47.368] [Download] 下载支持库文件 已取消！
+[16:00:47.384] 加载线程 Loader Launch (22) 发生运行时错误：获取 Java失败
+→ $$
+   在 PCL.ModLaunch.McLaunchStart(LoaderTask`2 Loader)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__13-0._Lambda$__0()
+   在 PCL.ModLaunch.McLaunchJava(LoaderTask`2 Task)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__13-0._Lambda$__0()
+[16:00:47.384] [Loader] 加载器 Loader Launch 状态改变：Failed
+[16:00:47.446] [Download] 1.14.json 1085#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:47.477] [Minecraft] 获取支持库列表：1.14.40
+[16:00:47.540] [Download] 1.14.json 1085#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:47.634] [Download] 1.14.json 1086#：开始，起始点 0，https://bmclapi2.bangbang93.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:47.727] [Download] 1.14.json 1086#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:47.821] [Download] 1.14.json 1089#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:47.915] [Download] 1.14.json 1089#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:47.980] [Control] 按下单选按钮：设置
+[16:00:47.980] [Control] 切换主要页面：Setup, -1
+[16:00:48.011] [Download] 1.14.json 1099#：开始，起始点 0，https://bmclapi2.bangbang93.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:48.105] [Download] 1.14.json 1099#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:48.199] [Download] 1.14.json 1125#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:48.293] [Download] 1.14.json 1125#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:48.386] [Download] 1.14.json 1129#：开始，起始点 0，https://bmclapi2.bangbang93.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:48.480] [Download] 1.14.json 1129#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:48.574] [Download] 1.14.json 1134#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:48.667] [Download] 1.14.json 1134#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:48.761] [Download] 1.14.json 1135#：开始，起始点 0，https://bmclapi2.bangbang93.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:48.855] [Download] 1.14.json 1135#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:48.949] [Download] 1.14.json 1140#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:49.043] [Download] 1.14.json 1140#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:49.136] [Download] 1.14.json 1145#：开始，起始点 0，https://bmclapi2.bangbang93.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:49.230] [Download] 1.14.json 1145#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:49.324] [Download] 1.14.json 1153#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:49.417] [Download] 1.14.json 1153#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:49.480] [Loader] 加载线程 分析缺失支持库文件 (9) 已中断但线程正常运行至结束，输出被弃用（最新线程：-1）
+[16:00:49.511] [Download] 1.14.json 1167#：开始，起始点 0，https://bmclapi2.bangbang93.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:49.605] [Download] 1.14.json 1167#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:49.699] [Download] 1.14.json 1168#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:49.792] [Download] 1.14.json 1168#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:49.886] [Download] 1.14.json 1171#：开始，起始点 0，https://bmclapi2.bangbang93.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:49.980] [Download] 1.14.json 1171#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:50.074] [Download] 1.14.json 1173#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:50.152] [Control] 按下文本按钮：自动搜索
+[16:00:50.152] [Loader] 加载器 查找 Java 状态改变：Loading
+[16:00:50.152] [Java] 开始部分遍历查找：C:\
+[16:00:50.167] [Download] 1.14.json 1173#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:50.167] [Java] 遍历查找 Java 时遭遇无权限的文件夹：C:\ProgramData\Microsoft\Network\Downloader
+[16:00:50.167] [Java] 遍历查找 Java 时遭遇无权限的文件夹：C:\ProgramData\Packages
+[16:00:50.167] [Java] 遍历查找 Java 时遭遇无权限的文件夹：C:\Users\defaultuser0
+[16:00:50.183] [UI] 弹出提示：正在搜索 Java！
+[16:00:50.214] [Java] 开始部分遍历查找：D:\
+[16:00:50.214] [Java] 开始部分遍历查找：E:\
+[16:00:50.214] [Java] 开始部分遍历查找：F:\
+[16:00:50.214] [Java] 开始部分遍历查找：G:\
+[16:00:50.230] [Java] 开始部分遍历查找：H:\
+[16:00:50.230] [Java] 开始部分遍历查找：C:\Users\s01\AppData\Roaming\
+[16:00:50.230] [Java] 开始部分遍历查找：C:\Users\s01\AppData\Local\
+[16:00:50.261] [Download] 1.14.json 1182#：开始，起始点 0，https://bmclapi2.bangbang93.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:50.261] [Java] 开始完全遍历查找：H:\新建文件夹 (2)\
+[16:00:50.261] [Java] 开始完全遍历查找：H:\新建文件夹 (2)\.minecraft\
+[16:00:50.261] [Java] 位于 C:\Program Files\Java\jdk-12\bin\ 的 Java 不含符号链接
+[16:00:50.261] [Java] 位于 C:\Program Files\Java\jdk-12\bin\ 的 Java 不含特殊引用
+[16:00:50.261] [Java] 开始确认列表 Java 状态，共 1 项
+[16:00:50.276] [System] 执行外部命令并等待返回结果：C:\Program Files\Java\jdk-12\bin\java.exe -version
+[16:00:50.355] [Download] 1.14.json 1182#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:50.370] [Java] Java 搜索完成，发现 1 个 Java
+[16:00:50.370] [Loader] 加载器 查找 Java 状态改变：Finished
+[16:00:50.370] [Java] 修改 Java 选择设置：自动选择
+[16:00:50.433] [UI] 弹出提示：已找到 1 个 Java，请检查下拉框查看列表！
+[16:00:50.448] [Download] 1.14.json 1198#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:50.542] [Download] 1.14.json 1198#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:50.636] [Download] 1.14.json 1200#：开始，起始点 0，https://bmclapi2.bangbang93.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:50.730] [Download] 1.14.json 1200#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:50.823] [Download] 1.14.json 1202#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:50.855] [Control] 按下单选按钮：启动
+[16:00:50.855] [Control] 切换主要页面：Launch, -1
+[16:00:50.917] [Download] 1.14.json 1202#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:51.011] [Download] 1.14.json 1226#：开始，起始点 0，https://bmclapi2.bangbang93.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:51.104] [Download] 1.14.json 1226#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:51.198] [Download] 1.14.json 1231#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:51.292] [Download] 1.14.json 1231#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:51.386] [Download] 1.14.json 1232#：开始，起始点 0，https://bmclapi2.bangbang93.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:51.480] [Download] 1.14.json 1232#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:51.573] [Download] 1.14.json 1235#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:51.667] [Download] 1.14.json 1235#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:51.667] [Control] 按下按钮：启动游戏
+[16:00:51.667] [Loader] 加载器 Loader Launch 状态改变：Loading
+[16:00:51.667] [Launch] 预检测已通过
+[16:00:51.667] [Download] 开始后台更新资源文件索引
+[16:00:51.667] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[16:00:51.667] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[16:00:51.667] [Download] 版本 1.14.40 对应的资源文件索引为 1.14
+[16:00:51.667] [Loader] 加载器 登录 状态改变：Waiting
+[16:00:51.667] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[16:00:51.667] [Loader] 加载器 获取 Java 状态改变：Loading
+[16:00:51.667] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Finished
+[16:00:51.667] [Launch] Java 版本需求：最低 1.8.0.0，最高 999.999.999.999
+[16:00:51.667] [Java] 开始完全遍历查找：H:\新建文件夹 (2)\
+[16:00:51.667] [Loader] 加载器 后台下载资源文件索引 状态改变：Loading
+[16:00:51.667] [Loader] 加载器 登录 状态改变：Loading
+[16:00:51.667] [Loader] 加载器 补全文件 状态改变：Loading
+[16:00:51.667] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[16:00:51.667] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[16:00:51.667] [Launch] 登录加载已开始
+[16:00:51.667] [Launch] 登录加载已结束
+[16:00:51.667] [Loader] 加载器 登录 状态改变：Finished
+[16:00:51.667] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[16:00:51.667] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[16:00:51.682] [Taskbar] Minecraft 启动 已加入任务列表
+[16:00:51.682] [Download] 版本 1.14.40 对应的资源文件索引为 1.14
+[16:00:51.682] [Java] 开始完全遍历查找：H:\新建文件夹 (2)\.minecraft\
+[16:00:51.682] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[16:00:51.682] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[16:00:51.682] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[16:00:51.682] [Java] 开始完全遍历查找：H:\新建文件夹 (2)\.minecraft\versions\1.14.40\
+[16:00:51.682] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[16:00:51.682] [Java] 排序后的 Java 优先顺序：
+[16:00:51.682] [Java]  - JDK 12 (12.0.0)，64 位：C:\Program Files\Java\jdk-12\bin\
+[16:00:51.682] [Java] 最终选定的 Java：JDK 12 (12.0.0)，64 位：C:\Program Files\Java\jdk-12\bin\
+[16:00:51.682] [Launch] 选择的 Java：JDK 12 (12.0.0)，64 位：C:\Program Files\Java\jdk-12\bin\
+[16:00:51.682] [Loader] 加载器 获取 Java 状态改变：Finished
+[16:00:51.729] [Minecraft] 获取支持库列表：1.14.40
+[16:00:51.760] [Download] 1.14.json 1269#：开始，起始点 0，https://bmclapi2.bangbang93.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:51.760] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[16:00:51.760] [Loader] 加载器 下载资源文件 状态改变：Loading
+[16:00:51.760] [Loader] 加载器 下载资源文件 状态改变：Finished
+[16:00:51.760] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[16:00:51.807] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[16:00:51.807] [Loader] 加载器 下载支持库文件 状态改变：Loading
+[16:00:51.807] [Loader] 加载器 下载支持库文件 状态改变：Finished
+[16:00:51.807] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
+[16:00:51.807] [Loader] 加载器 补全文件 状态改变：Finished
+[16:00:51.807] [Loader] 加载器 获取启动参数 状态改变：Loading
+[16:00:51.823] [Launch] 开始获取 Minecraft 启动参数
+[16:00:51.823] [Launch] 获取新版 JVM 参数
+[16:00:51.823] [Launch] 当前剩余内存：5.8G
+[16:00:51.823] [System] 获取资源：JavaWrapper
+[16:00:51.823] [Java] 已释放 Java Wrapper：C:\Users\s01\AppData\Roaming\PCL\JavaWrapper.jar
+[16:00:51.823] [Launch] 新版 JVM 参数获取成功：
+[16:00:51.823] [Launch] -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name=Windows 10 -Dos.version=10.0 -Djava.library.path=${natives_directory} -Dminecraft.launcher.brand=${launcher_name} -Dminecraft.launcher.version=${launcher_version} -cp ${classpath} -Xmn256m -Xmx921m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -Doolloo.jlw.tmpdir="C:\Users\s01\AppData\Roaming\PCL" -jar "C:\Users\s01\AppData\Roaming\PCL\JavaWrapper.jar" net.minecraft.client.main.Main
+[16:00:51.823] [Launch] 获取新版 Game 参数
+[16:00:51.839] [Launch] 新版 Game 参数获取成功
+[16:00:51.839] [Minecraft] 获取支持库列表：1.14.40
+[16:00:51.839] [Launch] Minecraft 启动参数：
+[16:00:51.839] [Launch] -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name="Windows 10" -Dos.version=10.0 -Djava.library.path="H:\新建文件夹 (2)\.minecraft\versions\1.14.40\1.14.40-natives" -Dminecraft.launcher.brand=PCL -Dminecraft.launcher.version=317 -cp "H:\新建文件夹 (2)\.minecraft\libraries\com\mojang\patchy\1.3.9\patchy-1.3.9.jar;H:\新建文件夹 (2)\.minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar;H:\新建文件夹 (2)\.minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar;H:\新建文件夹 (2)\.minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar;H:\新建文件夹 (2)\.minecraft\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar;H:\新建文件夹 (2)\.minecraft\libraries\com\mojang\javabridge\1.0.22\javabridge-1.0.22.jar;H:\新建文件夹 (2)\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar;H:\新建文件夹 (2)\.minecraft\libraries\io\netty\netty-all\4.1.25.Final\netty-all-4.1.25.Final.jar;H:\新建文件夹 (2)\.minecraft\libraries\com\google\guava\guava\21.0\guava-21.0.jar;H:\新建文件夹 (2)\.minecraft\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;H:\新建文件夹 (2)\.minecraft\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar;H:\新建文件夹 (2)\.minecraft\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;H:\新建文件夹 (2)\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;H:\新建文件夹 (2)\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;H:\新建文件夹 (2)\.minecraft\libraries\com\mojang\brigadier\1.0.17\brigadier-1.0.17.jar;H:\新建文件夹 (2)\.minecraft\libraries\com\mojang\datafixerupper\2.0.24\datafixerupper-2.0.24.jar;H:\新建文件夹 (2)\.minecraft\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;H:\新建文件夹 (2)\.minecraft\libraries\com\mojang\authlib\1.5.25\authlib-1.5.25.jar;H:\新建文件夹 (2)\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar;H:\新建文件夹 (2)\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;H:\新建文件夹 (2)\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;H:\新建文件夹 (2)\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;H:\新建文件夹 (2)\.minecraft\libraries\it\unimi\dsi\fastutil\8.2.1\fastutil-8.2.1.jar;H:\新建文件夹 (2)\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.8.1\log4j-api-2.8.1.jar;H:\新建文件夹 (2)\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.8.1\log4j-core-2.8.1.jar;H:\新建文件夹 (2)\.minecraft\libraries\org\lwjgl\lwjgl\3.2.2\lwjgl-3.2.2.jar;H:\新建文件夹 (2)\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.2.2\lwjgl-jemalloc-3.2.2.jar;H:\新建文件夹 (2)\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.2.2\lwjgl-openal-3.2.2.jar;H:\新建文件夹 (2)\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.2.2\lwjgl-opengl-3.2.2.jar;H:\新建文件夹 (2)\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.2.2\lwjgl-glfw-3.2.2.jar;H:\新建文件夹 (2)\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.2.2\lwjgl-stb-3.2.2.jar;H:\新建文件夹 (2)\.minecraft\libraries\com\mojang\text2speech\1.11.3\text2speech-1.11.3.jar;H:\新建文件夹 (2)\.minecraft\versions\1.14.40\1.14.40.jar" -Xmn256m -Xmx921m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -Doolloo.jlw.tmpdir="C:\Users\s01\AppData\Roaming\PCL" -jar "C:\Users\s01\AppData\Roaming\PCL\JavaWrapper.jar" net.minecraft.client.main.Main --username Ender_Wish --version 1.14.40 --gameDir "H:\新建文件夹 (2)\.minecraft" --assetsDir "H:\新建文件夹 (2)\.minecraft\assets" --assetIndex 1.14 --uuid 00000XXXXXXXXXXXXXXXXXXXXXX970E9 --accessToken 00000XXXXXXXXXXXXXXXXXXXXXX970E9 --userType msa --versionType PCL --width 854 --height 480 
+[16:00:51.839] [Loader] 加载器 获取启动参数 状态改变：Finished
+[16:00:51.839] [Loader] 加载器 解压文件 状态改变：Loading
+[16:00:51.839] [Launch] 正在解压 Natives 文件
+[16:00:51.854] [Download] 1.14.json 1269#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:51.854] [Loader] 加载器 解压文件 状态改变：Finished
+[16:00:51.870] [Loader] 加载器 预启动处理 状态改变：Loading
+[16:00:51.870] [Launch] 当前语言为 zh_cn，无需修改
+[16:00:51.870] [Launch] 正在构建自定义皮肤资源包，格式为：4
+[16:00:51.948] [Download] 1.14.json 1272#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:52.010] [Loader] 加载器 预启动处理 状态改变：Finished
+[16:00:52.010] [Loader] 加载器 执行自定义命令 状态改变：Loading
+[16:00:52.042] [Download] 1.14.json 1272#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:52.057] [Loader] 加载器 执行自定义命令 状态改变：Finished
+[16:00:52.073] [Loader] 加载器 启动进程 状态改变：Loading
+[16:00:52.073] [Launch] 已启动游戏进程：C:\Program Files\Java\jdk-12\bin\javaw.exe
+[16:00:52.073] [Loader] 加载器 启动进程 状态改变：Finished
+[16:00:52.104] [Loader] 加载器 等待游戏窗口出现 状态改变：Loading
+[16:00:52.104] [Launch] 
+[16:00:52.104] [Launch] ~ 基础参数 ~
+[16:00:52.104] [Launch] PCL 版本：Release 2.6.15 (317)
+[16:00:52.104] [Launch] 游戏版本：原版 1.14.4（14.4）
+[16:00:52.104] [Launch] 资源版本：1.14
+[16:00:52.104] [Launch] 版本继承：无
+[16:00:52.104] [Launch] 分配的内存：0.9 GB（922 MB）
+[16:00:52.104] [Launch] MC 文件夹：H:\新建文件夹 (2)\.minecraft\
+[16:00:52.104] [Launch] 版本文件夹：H:\新建文件夹 (2)\.minecraft\versions\1.14.40\
+[16:00:52.104] [Launch] 版本隔离：False
+[16:00:52.104] [Launch] HMCL 格式：False
+[16:00:52.104] [Launch] Java 信息：JDK 12 (12.0.0)，64 位：C:\Program Files\Java\jdk-12\bin\
+[16:00:52.104] [Launch] 环境变量：未设置
+[16:00:52.104] [Launch] 
+[16:00:52.104] [Launch] ~ 登录参数 ~
+[16:00:52.104] [Launch] 玩家用户名：Ender_Wish
+[16:00:52.104] [Launch] AccessToken：00000XXXXXXXXXXXXXXXXXXXXXX970E9
+[16:00:52.104] [Launch] ClientToken：00000XXXXXXXXXXXXXXXXXXXXXX970E9
+[16:00:52.104] [Launch] UUID：00000XXXXXXXXXXXXXXXXXXXXXX970E9
+[16:00:52.104] [Launch] 登录方式：Legacy
+[16:00:52.104] [Launch] 
+[16:00:52.104] [Launch] [7820] 开始 Minecraft 日志监控
+[16:00:52.104] [Launch] [全局] 出现运行中的 Minecraft
+[16:00:52.135] [Download] 1.14.json 1273#：开始，起始点 0，https://bmclapi2.bangbang93.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:52.229] [Download] 1.14.json 1273#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:52.323] [Download] 1.14.json 1276#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:52.354] [Launch] [7820] 日志 1/5：已出现日志输出
+[16:00:52.417] [Download] 1.14.json 1276#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:52.510] [Download] 1.14.json 1280#：开始，起始点 0，https://bmclapi2.bangbang93.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:52.604] [Download] 1.14.json 1280#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:52.698] [Download] 1.14.json 1282#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:52.791] [Download] 1.14.json 1282#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:52.885] [Download] 1.14.json 1284#：开始，起始点 0，https://bmclapi2.bangbang93.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:52.979] [Download] 1.14.json 1284#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:53.073] [Download] 1.14.json 1286#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:53.167] [Download] 1.14.json 1286#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:53.262] [Download] 1.14.json 1290#：开始，起始点 0，https://bmclapi2.bangbang93.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:53.277] [Launch] [7820] 日志 2/5：游戏用户已设置
+[16:00:53.355] [Download] 1.14.json 1290#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:53.449] [Download] 1.14.json 1293#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:53.543] [Download] 1.14.json 1293#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:53.637] [Download] 1.14.json 1295#：开始，起始点 0，https://bmclapi2.bangbang93.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:53.730] [Download] 1.14.json 1295#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:53.824] [Download] 1.14.json 1297#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:53.918] [Download] 1.14.json 1297#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:53.996] [Control] 按下图标按钮：BtnTitleMin
+[16:00:54.012] [Download] 1.14.json 1305#：开始，起始点 0，https://bmclapi2.bangbang93.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:54.105] [Download] 1.14.json 1305#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:54.199] [Download] 1.14.json 1307#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:54.293] [Download] 1.14.json 1307#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:54.387] [Download] 1.14.json 1308#：开始，起始点 0，https://bmclapi2.bangbang93.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:54.480] [Download] 1.14.json 1308#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:54.574] [Download] 1.14.json 1310#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:54.668] [Download] 1.14.json 1310#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:54.761] [Download] 1.14.json 1314#：开始，起始点 0，https://bmclapi2.bangbang93.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:54.855] [Download] 1.14.json 1314#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:55.011] [Download] 1.14.json 1317#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:55.095] [Download] 1.14.json 1317#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:55.101] [Download] 1.14.json 1318#：开始，起始点 0，https://bmclapi2.bangbang93.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:55.139] [Launch] [7820] 日志 3/5：LWJGL 版本已确认
+[16:00:55.179] [Download] 1.14.json 1318#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:55.201] [Download] 1.14.json 1319#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:55.267] [Download] 1.14.json 1319#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:55.283] [Download] 1.14.json 1321#：开始，起始点 0，https://bmclapi2.bangbang93.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:55.348] [Launch] [7820] Minecraft 窗口已加载：Minecraft 1.14.4（3081840）
+[16:00:55.352] [Download] 1.14.json 1321#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:55.369] [Download] 1.14.json 1322#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:55.438] [Download] 1.14.json 1322#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:55.455] [Download] 1.14.json 1324#：开始，起始点 0，https://bmclapi2.bangbang93.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:55.523] [Download] 1.14.json 1324#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:55.544] [Download] 1.14.json 1325#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:55.612] [Download] 1.14.json 1325#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:55.629] [Download] 1.14.json 1327#：开始，起始点 0，https://bmclapi2.bangbang93.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:55.705] [Download] 1.14.json 1327#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:55.724] [Download] 1.14.json 1328#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:55.792] [Download] 1.14.json 1328#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:55.806] [Download] 1.14.json 1329#：开始，起始点 0，https://bmclapi2.bangbang93.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:55.876] [Download] 1.14.json 1329#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:55.890] [Download] 1.14.json 1331#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:55.959] [Download] 1.14.json 1331#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:55.972] [Download] 1.14.json 1332#：开始，起始点 0，https://bmclapi2.bangbang93.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:56.045] [Download] 1.14.json 1332#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:56.055] [Download] 1.14.json 1334#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:56.127] [Download] 1.14.json 1334#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:56.137] [Download] 1.14.json 1335#：开始，起始点 0，https://bmclapi2.bangbang93.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:56.212] [Download] 1.14.json 1335#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:56.225] [Download] 1.14.json 1336#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:56.295] [Download] 1.14.json 1336#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:56.307] [Download] 1.14.json 1340#：开始，起始点 0，https://bmclapi2.bangbang93.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:56.380] [Download] 1.14.json 1340#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:56.392] [Download] 1.14.json 1341#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:56.464] [Download] 1.14.json 1341#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:56.475] [Download] 1.14.json 1343#：开始，起始点 0，https://bmclapi2.bangbang93.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:56.545] [Download] 1.14.json 1343#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:56.569] [Download] 1.14.json 1344#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:56.636] [Download] 1.14.json 1344#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:56.659] [Download] 1.14.json 1346#：开始，起始点 0，https://bmclapi2.bangbang93.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:56.727] [Download] 1.14.json 1346#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:56.728] [Launch] [7820] Minecraft 加载已完成
+[16:00:56.746] [Download] 1.14.json 1347#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:56.806] [Loader] 加载器 等待游戏窗口出现 状态改变：Finished
+[16:00:56.811] [Loader] 加载器 结束处理 状态改变：Loading
+[16:00:56.819] [Download] 1.14.json 1347#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:56.822] [Launch] 开始启动结束处理
+[16:00:56.822] [Launch] 启动器可见性：5
+[16:00:56.823] [Loader] 加载器 结束处理 状态改变：Finished
+[16:00:56.853] [Download] 1.14.json 1348#：开始，起始点 0，https://bmclapi2.bangbang93.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:56.903] [Loader] 加载器 Minecraft 启动 状态改变：Finished
+[16:00:56.922] [Download] 1.14.json 1348#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:56.951] [Download] 1.14.json 1350#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:57.020] [Download] 1.14.json 1350#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:57.034] [Download] 1.14.json 1351#：开始，起始点 0，https://bmclapi2.bangbang93.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:57.092] [Loader] 加载器 Loader Launch 状态改变：Finished
+[16:00:57.104] [Download] 1.14.json 1351#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:57.108] [UI] 弹出提示：1.14.40 启动成功！
+[16:00:57.118] [Download] 1.14.json 1357#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:57.188] [Download] 1.14.json 1357#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:57.202] [Download] 1.14.json 1358#：开始，起始点 0，https://bmclapi2.bangbang93.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:57.271] [Download] 1.14.json 1358#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:57.291] [Download] 1.14.json 1359#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:57.358] [Download] 1.14.json 1359#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:57.374] [Download] 1.14.json 1360#：开始，起始点 0，https://bmclapi2.bangbang93.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:57.442] [Download] 1.14.json 1360#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:57.456] [Download] 1.14.json 1361#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:57.525] [Download] 1.14.json 1361#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:57.538] [Download] 1.14.json 1362#：开始，起始点 0，https://bmclapi2.bangbang93.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:57.609] [Download] 1.14.json 1362#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:57.619] [Download] 1.14.json 1363#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:57.693] [Download] 1.14.json 1363#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:57.701] [Download] 1.14.json 1364#：开始，起始点 0，https://bmclapi2.bangbang93.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:57.785] [Download] 1.14.json 1364#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:57.785] [Download] 1.14.json 1040#：下载源被禁用（0）：https://bmclapi2.bangbang93.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:57.785] 下载源 0 已被禁用：基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+   在 System.Net.Security.SslState.StartReadFrame(Byte[] buffer, Int32 readBytes, AsyncProtocolRequest asyncRequest)
+   在 System.Net.Security.SslState.StartReceiveBlob(Byte[] buffer, AsyncProtocolRequest asyncRequest)
+   在 System.Net.Security.SslState.CheckCompletionBeforeNextReceive(ProtocolToken message, AsyncProtocolRequest asyncRequest)
+   在 System.Net.Security.SslState.ForceAuthentication(Boolean receiveFirst, Byte[] buffer, AsyncProtocolRequest asyncRequest)
+   在 System.Net.Security.SslState.ProcessAuthentication(LazyAsyncResult lazyResult)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Net.TlsStream.ProcessAuthentication(LazyAsyncResult result)
+   在 System.Net.TlsStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   在 System.Net.PooledStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   在 System.Net.ConnectStream.WriteHeaders(Boolean async)
+错误类型：System.IO.IOException
+[16:00:57.868] [Download] 1.14.json 1365#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:57.936] [Download] 1.14.json 1365#：出错，基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:57.936] [Download] 1.14.json 1040#：下载源被禁用（1）：https://piston-meta.mojang.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:57.936] 下载源 1 已被禁用：基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+   在 System.Net.Security.SslState.StartReadFrame(Byte[] buffer, Int32 readBytes, AsyncProtocolRequest asyncRequest)
+   在 System.Net.Security.SslState.StartReceiveBlob(Byte[] buffer, AsyncProtocolRequest asyncRequest)
+   在 System.Net.Security.SslState.CheckCompletionBeforeNextReceive(ProtocolToken message, AsyncProtocolRequest asyncRequest)
+   在 System.Net.Security.SslState.ForceAuthentication(Boolean receiveFirst, Byte[] buffer, AsyncProtocolRequest asyncRequest)
+   在 System.Net.Security.SslState.ProcessAuthentication(LazyAsyncResult lazyResult)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Net.TlsStream.ProcessAuthentication(LazyAsyncResult result)
+   在 System.Net.TlsStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   在 System.Net.PooledStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   在 System.Net.ConnectStream.WriteHeaders(Boolean async)
+错误类型：System.IO.IOException
+[16:00:57.936] [Download] 文件 1.14.json 已无可用下载源
+[16:00:57.936] [Download] 已禁用的下载源：https://bmclapi2.bangbang93.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:57.936] 下载源禁用原因：基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+   在 System.Net.Security.SslState.StartReadFrame(Byte[] buffer, Int32 readBytes, AsyncProtocolRequest asyncRequest)
+   在 System.Net.Security.SslState.StartReceiveBlob(Byte[] buffer, AsyncProtocolRequest asyncRequest)
+   在 System.Net.Security.SslState.CheckCompletionBeforeNextReceive(ProtocolToken message, AsyncProtocolRequest asyncRequest)
+   在 System.Net.Security.SslState.ForceAuthentication(Boolean receiveFirst, Byte[] buffer, AsyncProtocolRequest asyncRequest)
+   在 System.Net.Security.SslState.ProcessAuthentication(LazyAsyncResult lazyResult)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Net.TlsStream.ProcessAuthentication(LazyAsyncResult result)
+   在 System.Net.TlsStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   在 System.Net.PooledStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   在 System.Net.ConnectStream.WriteHeaders(Boolean async)
+错误类型：System.IO.IOException
+[16:00:57.937] [Download] 已禁用的下载源：https://piston-meta.mojang.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[16:00:57.937] 下载源禁用原因：基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+   在 System.Net.Security.SslState.StartReadFrame(Byte[] buffer, Int32 readBytes, AsyncProtocolRequest asyncRequest)
+   在 System.Net.Security.SslState.StartReceiveBlob(Byte[] buffer, AsyncProtocolRequest asyncRequest)
+   在 System.Net.Security.SslState.CheckCompletionBeforeNextReceive(ProtocolToken message, AsyncProtocolRequest asyncRequest)
+   在 System.Net.Security.SslState.ForceAuthentication(Boolean receiveFirst, Byte[] buffer, AsyncProtocolRequest asyncRequest)
+   在 System.Net.Security.SslState.ProcessAuthentication(LazyAsyncResult lazyResult)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Net.TlsStream.ProcessAuthentication(LazyAsyncResult result)
+   在 System.Net.TlsStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   在 System.Net.PooledStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   在 System.Net.ConnectStream.WriteHeaders(Boolean async)
+错误类型：System.IO.IOException
+[16:00:57.939] [Download] 1.14.json：已失败，剩余文件 0
+[16:00:57.944] [Loader] 加载器 后台下载资源文件索引 状态改变：Failed
+[16:00:57.944] [Loader] 加载器 后台更新资源文件索引 状态改变：Failed
+[16:00:57.944] [Download] 基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:00:57.944] [Loader] 加载器 后台下载资源文件索引 状态改变：Failed
+[16:00:57.944] [Loader] 加载器 后台更新资源文件索引 状态改变：Failed
+[16:00:57.945] [Download] 基础连接已经关闭: 发送时发生错误。
+→ 由于意外的数据包格式，握手失败。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.IO.IOException
+[16:01:01.411] [Launch] [7820] 日志 5/5：材质已加载
+[16:51:42.201] [Launch] [7820] Minecraft 已退出，返回值：0
+[16:51:42.201] [Launch] [全局] 已无运行中的 Minecraft
+[16:51:42.436] [Launch] [7820] Minecraft 日志监控已退出
+[16:51:44.037] [Control] 按下图标按钮：BtnTitleClose
+[16:51:44.037] [System] 收到关闭指令
+[16:51:44.271] [System] 程序已退出，返回值：Success

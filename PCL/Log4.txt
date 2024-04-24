@@ -1,0 +1,296 @@
+[12:33:17.245] [Start] 程序版本：Release 2.6.15（317）
+[12:33:17.260] [Start] 识别码：E04B-6E31-48BC-8F52
+[12:33:17.260] [Start] 程序路径：G:\新建文件夹 (2)\Plain Craft Launcher 2.exe
+[12:33:17.967] [Start] 第一阶段加载用时：1233 ms
+[12:33:18.605] [Start] 版本号从 0 升高到 317
+[12:33:18.606] [Start] 最高版本号从 0 升高到 317
+[12:33:18.620] [Start] 已解除帮助页面的隐藏
+[12:33:18.905] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[12:33:18.906] [Start] 第二阶段加载用时：921 ms
+[12:33:18.986] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[12:33:19.970] [System] 窗口已置顶，位置：(370, 170), 860 x 520
+[12:33:19.989] [Animation] 动画线程开始
+[12:33:19.989] [Start] 第三阶段加载用时：187 ms
+[12:33:19.998] [Start] 加载 DLL：Json
+[12:33:19.999] [System] 获取资源：Json
+[12:33:20.023] [Launch] Minecraft 文件夹：G:\新建文件夹 (2)\.minecraft\
+[12:33:20.284] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[12:33:20.290] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[12:33:20.410] [Animation] 两个动画帧间隔 405 ms
+[12:33:20.424] [Page] 实例化：清空自定义主页 UI，来源为空
+[12:33:20.456] [Skin] 载入头像成功：Loader Skin Legacy
+[12:33:20.461] [Minecraft] 启动按钮：Minecraft 版本：G:\新建文件夹 (2)\.minecraft\versions\1.14.40\
+[12:33:20.544] [Control] 普通弹窗：协议授权
+在使用 PCL 前，请同意 PCL 的用户协议与免责声明。
+[12:33:20.697] [System] DPI：96，系统版本：6.1.7601.65536，PCL 位置：G:\新建文件夹 (2)\Plain Craft Launcher 2.exe
+[12:33:21.956] [Control] 按下按钮：同意
+[12:33:21.958] [Control] 普通弹框返回：1
+[12:33:21.960] [Java] 要求 Java 列表缓存更新
+[12:33:21.960] [Java] 初始化未找到可用的 Java，将自动触发搜索
+[12:33:21.960] [Loader] 加载器 查找 Java 状态改变：Loading
+[12:33:22.008] [Java] 开始部分遍历查找：C:\
+[12:33:22.186] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[12:33:22.187] [Loader] 加载器 PCL 服务 状态改变：Loading
+[12:33:22.189] [Server] 正在连接到 PCL 服务器
+[12:33:22.191] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，超时 10000ms，要求 json
+[12:33:22.267] [Net] 获取网络结果：https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1712896402-631cffa8-0-bc9c161fb6c781b1f18304a03238c708，超时 10000ms
+[12:33:22.288] [Java] 开始部分遍历查找：D:\
+[12:33:22.290] [Java] 开始部分遍历查找：E:\
+[12:33:22.291] [Java] 开始部分遍历查找：F:\
+[12:33:22.293] [Java] 开始部分遍历查找：G:\
+[12:33:22.399] [Java] 开始部分遍历查找：C:\Users\Administrator\AppData\Roaming\
+[12:33:22.403] [Java] 开始部分遍历查找：C:\Users\Administrator\AppData\Local\
+[12:33:22.410] [Java] 开始完全遍历查找：G:\新建文件夹 (2)\
+[12:33:22.454] [Java] 开始完全遍历查找：G:\新建文件夹 (2)\.minecraft\
+[12:33:22.810] [Animation] 两个动画帧间隔 250 ms
+[12:33:22.819] [Java] 位于 C:\Program Files\Common Files\Oracle\Java\javapath\ 的 Java 包含符号链接
+[12:33:22.821] [Java] 位于 C:\Program Files\Common Files\Oracle\Java\javapath_target_415399\ 的 Java 不含符号链接
+[12:33:22.823] [Java] 位于 C:\Program Files\Java\jre1.8.0_291\bin\ 的 Java 不含符号链接
+[12:33:22.823] [Java] 位于 C:\Program Files\Common Files\Oracle\Java\javapath_target_415399\ 的 Java 包含特殊引用
+[12:33:22.823] [Java] 位于 C:\Program Files\Java\jre1.8.0_291\bin\ 的 Java 不含特殊引用
+[12:33:22.836] [Server] 服务器公告：136|320|321|5，本地公告编号：0，需更新
+[12:33:22.862] [Java] 开始确认列表 Java 状态，共 1 项
+[12:33:22.869] [System] 执行外部命令并等待返回结果：C:\Program Files\Java\jre1.8.0_291\bin\java.exe -version
+[12:33:22.873] [Loader] 加载器 源码获取 106# 状态改变：Loading
+[12:33:22.911] [Download] 771128284_105 109#：开始，起始点 0，https://pcl2-server-1253424809.file.myqcloud.com/minecraft/download.json?sign=1712896403-47d1e2ad-0-00db772f7ffef8ccd11190fb9d6863b6
+[12:33:22.928] [Download] 771128284_105：文件大小 3896 B（3.8 K）
+[12:33:22.949] [Download] 771128284_105：已完成，剩余文件 0
+[12:33:22.950] [Loader] 加载器 源码获取 106# 状态改变：Finished
+[12:33:22.956] [Net] 获取网络结果：https://pcl2-server-1253424809.file.myqcloud.com/notice.json?sign=1712896403-30be222a-0-bb6f55825a7c0b53714c848e845c4658，超时 10000ms
+[12:33:23.031] [Server] 重要等级 0，更新公告 True
+[12:33:23.032] [System] 更新已开始，静默：True
+[12:33:23.032] [Server] 重要等级 2，更新公告 True
+[12:33:23.032] [Loader] 加载器 PCL 服务 状态改变：Finished
+[12:33:23.035] [Loader] 加载器 启动器更新 状态改变：Loading
+[12:33:23.037] [Loader] 加载器 下载更新文件 状态改变：Loading
+[12:33:23.059] [Download] Update.zip 115#：开始，起始点 0，https://github.com/Hex-Dragon/PCL2/raw/main/%E6%9C%80%E6%96%B0%E6%AD%A3%E5%BC%8F%E7%89%88.zip
+[12:33:23.520] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[12:33:23.772] [Download] Update.zip 115#：出错，The remote name could not be resolved: 'raw.githubusercontent.com'
+   at PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.Net.WebException
+[12:33:23.834] [Download] Update.zip 116#：开始，起始点 0，https://gitcode.net/LTCat_/pcl2/-/raw/master/%E6%9C%80%E6%96%B0%E6%AD%A3%E5%BC%8F%E7%89%88.zip?inline=false
+[12:33:23.890] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[12:33:23.891] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[12:33:23.905] [Skin] 载入头像成功：Loader Skin Legacy
+[12:33:24.064] [Download] Update.zip：文件大小 2099021 B（2 M）
+[12:33:24.481] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[12:33:24.485] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[12:33:24.487] [Skin] 载入头像成功：Loader Skin Legacy
+[12:33:24.523] [Download] Update.zip：已完成，剩余文件 0
+[12:33:24.523] [Loader] 加载器 下载更新文件 状态改变：Finished
+[12:33:24.525] [Loader] 加载器 安装更新 状态改变：Loading
+[12:33:24.527] [System] 无需清理目标更新文件：G:\新建文件夹 (2)\PCL\Plain Craft Launcher 2.exe
+[12:33:24.601] [Download] 速度下限已提升到 1.08 M
+[12:33:24.607] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[12:33:24.615] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[12:33:24.624] [Skin] 载入头像成功：Loader Skin Legacy
+[12:33:24.750] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[12:33:24.750] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[12:33:24.751] [Skin] 载入头像成功：Loader Skin Legacy
+[12:33:24.901] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[12:33:24.901] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[12:33:24.902] [Skin] 载入头像成功：Loader Skin Legacy
+[12:33:25.391] [Java] Java 搜索完成，发现 1 个 Java
+[12:33:25.391] [Loader] 加载器 查找 Java 状态改变：Finished
+[12:33:25.711] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[12:33:25.711] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[12:33:25.712] [Skin] 载入头像成功：Loader Skin Legacy
+[12:33:26.050] [System] 更新文件解压完成
+[12:33:26.051] [Loader] 加载器 安装更新 状态改变：Finished
+[12:33:26.077] [Loader] 加载器 启动器更新 状态改变：Finished
+[12:33:26.278] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[12:33:26.279] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[12:33:26.280] [Skin] 载入头像成功：Loader Skin Legacy
+[12:33:26.752] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[12:33:26.753] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[12:33:26.753] [Skin] 载入头像成功：Loader Skin Legacy
+[12:33:26.864] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[12:33:26.865] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[12:33:26.865] [Skin] 载入头像成功：Loader Skin Legacy
+[12:33:27.085] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[12:33:27.085] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[12:33:27.086] [Skin] 载入头像成功：Loader Skin Legacy
+[12:33:27.481] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[12:33:27.482] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[12:33:27.483] [Skin] 载入头像成功：Loader Skin Legacy
+[12:33:27.665] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[12:33:27.665] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[12:33:27.666] [Skin] 载入头像成功：Loader Skin Legacy
+[12:33:27.894] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[12:33:27.894] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[12:33:27.895] [Skin] 载入头像成功：Loader Skin Legacy
+[12:33:28.523] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[12:33:28.523] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[12:33:28.524] [Skin] 载入头像成功：Loader Skin Legacy
+[12:33:28.598] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[12:33:28.598] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[12:33:28.599] [Skin] 载入头像成功：Loader Skin Legacy
+[12:33:28.803] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[12:33:28.803] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[12:33:28.804] [Skin] 载入头像成功：Loader Skin Legacy
+[12:33:30.171] [Control] 按下单选按钮：设置
+[12:33:30.347] [Control] 切换主要页面：Setup, -1
+[12:33:33.587] [Control] 按下单选框：自定义
+[12:33:34.676] [Animation] 两个动画帧间隔 1076 ms
+[12:33:35.579] [Animation] 两个动画帧间隔 500 ms
+[12:33:35.583] [Animation] 两个动画帧间隔 374 ms
+[12:33:44.743] [UI] 选择文件返回：G:\新建文件夹 (3)\f.png
+[12:33:44.761] [Control] 普通弹窗：选择皮肤种类
+此皮肤为 Steve 模型（粗手臂）还是 Alex 模型（细手臂）？
+[12:33:44.761] [Animation] 两个动画帧间隔 468 ms
+[12:33:45.618] [Control] 按下按钮：Steve 模型
+[12:33:45.618] [Control] 普通弹框返回：1
+[12:33:45.621] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[12:33:45.622] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[12:33:45.622] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[12:33:45.623] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[12:33:45.625] [Skin] 载入头像成功：Loader Skin Legacy
+[12:33:45.625] [Skin] 载入头像成功：Loader Skin Legacy
+[12:33:54.818] [Control] 按下单选按钮：启动
+[12:33:54.819] [Control] 切换主要页面：Launch, -1
+[12:33:56.457] [Control] 按下按钮：启动游戏
+[12:33:56.460] [Loader] 加载器 Loader Launch 状态改变：Loading
+[12:33:56.579] [Launch] 预检测已通过
+[12:33:56.581] [Download] 开始后台更新资源文件索引
+[12:33:56.581] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[12:33:56.581] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[12:33:56.584] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[12:33:56.584] [Loader] 加载器 获取 Java 状态改变：Loading
+[12:33:56.585] [Download] 版本 1.14.40 对应的资源文件索引为 1.14
+[12:33:56.586] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Finished
+[12:33:56.586] [Loader] 加载器 后台下载资源文件索引 状态改变：Loading
+[12:33:56.587] [Launch] Java 版本需求：最低 1.8.0.0，最高 999.999.999.999
+[12:33:56.592] [Java] 开始完全遍历查找：G:\新建文件夹 (2)\
+[12:33:56.599] [Loader] 加载器 登录 状态改变：Loading
+[12:33:56.599] [Loader] 加载器 补全文件 状态改变：Loading
+[12:33:56.599] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[12:33:56.599] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[12:33:56.601] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[12:33:56.601] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[12:33:56.603] [Launch] 登录加载已开始
+[12:33:56.603] [Loader] 加载器 Loader Login Legacy 状态改变：Loading
+[12:33:56.607] [Launch] 登录方式：离线（Ender_Wish）
+[12:33:56.608] [Loader] 加载器 Loader Login Legacy 状态改变：Finished
+[12:33:56.609] [Launch] 登录加载已结束
+[12:33:56.609] [Loader] 加载器 登录 状态改变：Finished
+[12:33:56.619] [Download] 版本 1.14.40 对应的资源文件索引为 1.14
+[12:33:56.619] [Taskbar] Minecraft 启动 已加入任务列表
+[12:33:56.665] [Download] 1.14.json 527#：开始，起始点 0，https://bmclapi2.bangbang93.com/v1/packages/43b2f3021fe9f7d768378de95538e22da3ee8301/1.14.json
+[12:33:56.715] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[12:33:56.715] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[12:33:56.720] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[12:33:56.720] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[12:33:56.730] [Java] 开始完全遍历查找：G:\新建文件夹 (2)\.minecraft\
+[12:33:57.402] [Download] 1.14.json：文件大小 227730 B（222 K）
+[12:33:57.630] [Download] 1.14.json：已完成，剩余文件 0
+[12:33:57.630] [Loader] 加载器 后台下载资源文件索引 状态改变：Finished
+[12:33:57.630] [Loader] 加载器 后台复制资源文件索引 状态改变：Loading
+[12:34:00.592] [Launch] 后台更新资源文件索引成功：C:\Users\Administrator\AppData\Local\Temp\PCL\Cache\1.14.json
+[12:34:00.592] [Loader] 加载器 后台复制资源文件索引 状态改变：Finished
+[12:34:00.593] [Loader] 加载器 后台更新资源文件索引 状态改变：Finished
+[12:34:01.788] [Minecraft] 获取支持库列表：1.14.40
+[12:34:02.151] [Java] 开始完全遍历查找：G:\新建文件夹 (2)\.minecraft\versions\1.14.40\
+[12:34:02.182] [Java] 排序后的 Java 优先顺序：
+[12:34:02.183] [Java]  - JRE 8 (8.0.291)，32 位：C:\Program Files\Java\jre1.8.0_291\bin\
+[12:34:02.183] [Java] 最终选定的 Java：JRE 8 (8.0.291)，32 位：C:\Program Files\Java\jre1.8.0_291\bin\
+[12:34:02.183] [Launch] 选择的 Java：JRE 8 (8.0.291)，32 位：C:\Program Files\Java\jre1.8.0_291\bin\
+[12:34:02.183] [Loader] 加载器 获取 Java 状态改变：Finished
+[12:34:03.899] [Control] 按下图标按钮：BtnTitleMin
+[12:34:04.716] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[12:34:04.717] [Loader] 加载器 下载支持库文件 状态改变：Loading
+[12:34:04.720] [Loader] 加载器 下载支持库文件 状态改变：Finished
+[12:34:04.721] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
+[12:34:07.971] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[12:34:07.971] [Loader] 加载器 下载资源文件 状态改变：Loading
+[12:34:07.972] [Loader] 加载器 下载资源文件 状态改变：Finished
+[12:34:07.972] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[12:34:07.972] [Loader] 加载器 补全文件 状态改变：Finished
+[12:34:07.972] [Loader] 加载器 获取启动参数 状态改变：Loading
+[12:34:07.974] [Launch] 开始获取 Minecraft 启动参数
+[12:34:07.974] [Launch] 获取新版 JVM 参数
+[12:34:07.977] [Launch] 当前剩余内存：0.7G
+[12:34:07.979] [System] 获取资源：JavaWrapper
+[12:34:07.980] [Java] 已释放 Java Wrapper：C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar
+[12:34:07.980] [Launch] 新版 JVM 参数获取成功：
+[12:34:07.980] [Launch] -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xss1M -Djava.library.path=${natives_directory} -Dminecraft.launcher.brand=${launcher_name} -Dminecraft.launcher.version=${launcher_version} -cp ${classpath} -Xmn256m -Xmx716m -Dlog4j2.formatMsgNoLookups=true -Doolloo.jlw.tmpdir="C:\Users\Administrator\AppData\Roaming\PCL" -jar "C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar" net.minecraft.client.main.Main
+[12:34:07.980] [Launch] 获取新版 Game 参数
+[12:34:07.982] [Launch] 新版 Game 参数获取成功
+[12:34:07.985] [Minecraft] 获取支持库列表：1.14.40
+[12:34:07.995] [Launch] Minecraft 启动参数：
+[12:34:07.998] [Launch] -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xss1M -Djava.library.path="G:\新建文件夹 (2)\.minecraft\versions\1.14.40\1.14.40-natives" -Dminecraft.launcher.brand=PCL -Dminecraft.launcher.version=317 -cp "G:\新建文件夹 (2)\.minecraft\libraries\com\mojang\patchy\1.3.9\patchy-1.3.9.jar;G:\新建文件夹 (2)\.minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar;G:\新建文件夹 (2)\.minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar;G:\新建文件夹 (2)\.minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar;G:\新建文件夹 (2)\.minecraft\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar;G:\新建文件夹 (2)\.minecraft\libraries\com\mojang\javabridge\1.0.22\javabridge-1.0.22.jar;G:\新建文件夹 (2)\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar;G:\新建文件夹 (2)\.minecraft\libraries\io\netty\netty-all\4.1.25.Final\netty-all-4.1.25.Final.jar;G:\新建文件夹 (2)\.minecraft\libraries\com\google\guava\guava\21.0\guava-21.0.jar;G:\新建文件夹 (2)\.minecraft\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;G:\新建文件夹 (2)\.minecraft\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar;G:\新建文件夹 (2)\.minecraft\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;G:\新建文件夹 (2)\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;G:\新建文件夹 (2)\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;G:\新建文件夹 (2)\.minecraft\libraries\com\mojang\brigadier\1.0.17\brigadier-1.0.17.jar;G:\新建文件夹 (2)\.minecraft\libraries\com\mojang\datafixerupper\2.0.24\datafixerupper-2.0.24.jar;G:\新建文件夹 (2)\.minecraft\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;G:\新建文件夹 (2)\.minecraft\libraries\com\mojang\authlib\1.5.25\authlib-1.5.25.jar;G:\新建文件夹 (2)\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar;G:\新建文件夹 (2)\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;G:\新建文件夹 (2)\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;G:\新建文件夹 (2)\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;G:\新建文件夹 (2)\.minecraft\libraries\it\unimi\dsi\fastutil\8.2.1\fastutil-8.2.1.jar;G:\新建文件夹 (2)\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.8.1\log4j-api-2.8.1.jar;G:\新建文件夹 (2)\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.8.1\log4j-core-2.8.1.jar;G:\新建文件夹 (2)\.minecraft\libraries\org\lwjgl\lwjgl\3.2.2\lwjgl-3.2.2.jar;G:\新建文件夹 (2)\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.2.2\lwjgl-jemalloc-3.2.2.jar;G:\新建文件夹 (2)\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.2.2\lwjgl-openal-3.2.2.jar;G:\新建文件夹 (2)\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.2.2\lwjgl-opengl-3.2.2.jar;G:\新建文件夹 (2)\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.2.2\lwjgl-glfw-3.2.2.jar;G:\新建文件夹 (2)\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.2.2\lwjgl-stb-3.2.2.jar;G:\新建文件夹 (2)\.minecraft\libraries\com\mojang\text2speech\1.11.3\text2speech-1.11.3.jar;G:\新建文件夹 (2)\.minecraft\versions\1.14.40\1.14.40.jar" -Xmn256m -Xmx716m -Dlog4j2.formatMsgNoLookups=true -Doolloo.jlw.tmpdir="C:\Users\Administrator\AppData\Roaming\PCL" -jar "C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar" net.minecraft.client.main.Main --username Ender_Wish --version 1.14.40 --gameDir "G:\新建文件夹 (2)\.minecraft" --assetsDir "G:\新建文件夹 (2)\.minecraft\assets" --assetIndex 1.14 --uuid 00000XXXXXXXXXXXXXXXXXXXXXX970E9 --accessToken 00000XXXXXXXXXXXXXXXXXXXXXX970E9 --userType msa --versionType PCL --width 854 --height 480 
+[12:34:07.998] [Loader] 加载器 获取启动参数 状态改变：Finished
+[12:34:08.010] [Loader] 加载器 解压文件 状态改变：Loading
+[12:34:08.023] [Launch] 正在解压 Natives 文件
+[12:34:08.058] [Loader] 加载器 解压文件 状态改变：Finished
+[12:34:08.085] [Loader] 加载器 预启动处理 状态改变：Loading
+[12:34:08.106] [Launch] 当前语言为 zh_cn，无需修改
+[12:34:08.108] [Launch] 正在构建自定义皮肤资源包，格式为：4
+[12:34:08.355] [Loader] 加载器 预启动处理 状态改变：Finished
+[12:34:08.356] [Loader] 加载器 执行自定义命令 状态改变：Loading
+[12:34:08.421] [Loader] 加载器 执行自定义命令 状态改变：Finished
+[12:34:08.424] [Loader] 加载器 启动进程 状态改变：Loading
+[12:34:08.483] [Launch] 已启动游戏进程：C:\Program Files\Java\jre1.8.0_291\bin\javaw.exe
+[12:34:08.483] [Loader] 加载器 启动进程 状态改变：Finished
+[12:34:08.565] [Loader] 加载器 等待游戏窗口出现 状态改变：Loading
+[12:34:08.572] [Launch] 
+[12:34:08.572] [Launch] ~ 基础参数 ~
+[12:34:08.572] [Launch] PCL 版本：Release 2.6.15 (317)
+[12:34:08.572] [Launch] 游戏版本：原版 1.14.4（14.4）
+[12:34:08.572] [Launch] 资源版本：1.14
+[12:34:08.572] [Launch] 版本继承：无
+[12:34:08.572] [Launch] 分配的内存：0.7 GB（717 MB）
+[12:34:08.572] [Launch] MC 文件夹：G:\新建文件夹 (2)\.minecraft\
+[12:34:08.572] [Launch] 版本文件夹：G:\新建文件夹 (2)\.minecraft\versions\1.14.40\
+[12:34:08.572] [Launch] 版本隔离：False
+[12:34:08.572] [Launch] HMCL 格式：False
+[12:34:08.572] [Launch] Java 信息：JRE 8 (8.0.291)，32 位：C:\Program Files\Java\jre1.8.0_291\bin\
+[12:34:08.572] [Launch] 环境变量：未设置
+[12:34:08.572] [Launch] 
+[12:34:08.572] [Launch] ~ 登录参数 ~
+[12:34:08.572] [Launch] 玩家用户名：Ender_Wish
+[12:34:08.572] [Launch] AccessToken：00000XXXXXXXXXXXXXXXXXXXXXX970E9
+[12:34:08.572] [Launch] ClientToken：00000XXXXXXXXXXXXXXXXXXXXXX970E9
+[12:34:08.572] [Launch] UUID：00000XXXXXXXXXXXXXXXXXXXXXX970E9
+[12:34:08.572] [Launch] 登录方式：Legacy
+[12:34:08.572] [Launch] 
+[12:34:08.574] [Launch] [3108] 开始 Minecraft 日志监控
+[12:34:08.575] [Launch] [全局] 出现运行中的 Minecraft
+[12:34:17.855] [Launch] [3108] 日志 1/5：已出现日志输出
+[12:34:17.971] [Launch] [3108] 日志 2/5：游戏用户已设置
+[12:34:22.661] [Report] FPS 0, 动画 6, 下载中 0（0 B/s）
+[12:34:29.810] [Launch] [3108] 日志 3/5：LWJGL 版本已确认
+[12:34:31.254] [Launch] [3108] Minecraft 窗口已加载：Minecraft 1.14.4（263306）
+[12:34:34.098] [Launch] [3108] Minecraft 加载已完成
+[12:34:34.323] [Loader] 加载器 等待游戏窗口出现 状态改变：Finished
+[12:34:34.336] [Loader] 加载器 结束处理 状态改变：Loading
+[12:34:34.343] [Launch] 开始启动结束处理
+[12:34:34.343] [Launch] 启动器可见性：5
+[12:34:34.408] [Loader] 加载器 结束处理 状态改变：Finished
+[12:34:34.439] [Loader] 加载器 Minecraft 启动 状态改变：Finished
+[12:34:34.465] [Loader] 加载器 Loader Launch 状态改变：Finished
+[12:34:34.517] [UI] 弹出提示：1.14.40 启动成功！
+[12:34:47.721] [Control] 按下单选按钮：设置
+[12:34:47.721] [Control] 切换主要页面：Setup, -1
+[12:35:02.633] [Control] 按下图标按钮：BtnTitleMin
+[12:35:56.671] [Launch] [3108] 日志 4/5：OpenAL 已加载
+[12:35:57.472] [Launch] [3108] 日志 5/5：材质已加载
+[12:36:52.779] [Animation] 两个动画帧间隔 202 ms
+[12:40:33.713] [Animation] 两个动画帧间隔 219 ms
+[12:40:35.757] [Animation] 两个动画帧间隔 733 ms
+[12:40:36.587] [Animation] 两个动画帧间隔 203 ms
+[12:43:53.283] [Animation] 两个动画帧间隔 359 ms
+[12:50:36.716] [Animation] 两个动画帧间隔 577 ms
+[12:54:25.433] [Animation] 两个动画帧间隔 296 ms
+[12:59:40.122] [Animation] 两个动画帧间隔 203 ms
+[13:03:09.978] [Animation] 两个动画帧间隔 203 ms
+[13:21:53.978] [Animation] 两个动画帧间隔 202 ms
+[13:22:57.660] [Animation] 两个动画帧间隔 296 ms
+[13:23:01.922] [Animation] 两个动画帧间隔 203 ms
+[13:23:02.476] [Animation] 两个动画帧间隔 234 ms
+[13:23:04.578] [Animation] 两个动画帧间隔 359 ms
+[13:24:10.954] [Animation] 两个动画帧间隔 265 ms
+[13:24:29.003] [Animation] 两个动画帧间隔 422 ms
+[13:25:07.608] [Animation] 两个动画帧间隔 203 ms
+[13:31:23.779] [Animation] 两个动画帧间隔 266 ms
+[13:31:30.462] [Launch] [3108] Minecraft 已退出，返回值：1073807364
+[13:31:30.478] [Launch] [3108] Minecraft 返回值异常，可能已崩溃
